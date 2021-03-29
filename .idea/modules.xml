@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/algorithmic-toolbox.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/algorithmic-toolbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coursera-ds-algo.iml" filepath="$PROJECT_DIR$/coursera-ds-algo.iml" />
+    </modules>
+  </component>
+</project>
