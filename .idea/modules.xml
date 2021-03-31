@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/algorithmic-toolbox.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/algorithmic-toolbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/coursera-ds-algo.iml" filepath="$PROJECT_DIR$/coursera-ds-algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/week1-programming-challenges/week1-programming-challenges.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/week1-programming-challenges/week1-programming-challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/week2-algorithmic-warm-up/week2-algorithmic-warm-up.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/week2-algorithmic-warm-up/week2-algorithmic-warm-up.iml" />
     </modules>
   </component>
 </project>
