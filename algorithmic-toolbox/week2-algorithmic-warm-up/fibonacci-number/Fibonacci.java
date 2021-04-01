@@ -8,21 +8,21 @@ public class Fibonacci {
         return NaiveCalcFib(n - 1) + NaiveCalcFib(n - 2);
     }
 
-    private static long CalcFib(int n) {
-        long first = 0;
-        long second = 1;
+    private static long calcFib(int n) {
+        long previous = 0;
+        long current = 1;
 
         if (n <= 1) {
-            return second;
+            return current;
         }
 
         for (int i = 2; i <= n; i++) {
-            long aux = second;
-            second = second + first;
-            first = aux;
+            long aux = current;
+            current = current + previous;
+            previous = aux;
         }
 
-        return second;
+        return current;
     }
 
     private static long formulaCalcFib(int n) {
@@ -31,12 +31,12 @@ public class Fibonacci {
 
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
 
         System.out.println(NaiveCalcFib(n));
-        System.out.println(CalcFib(n));
+        System.out.println(calcFib(n));
         System.out.println(formulaCalcFib(n));
     }
 }

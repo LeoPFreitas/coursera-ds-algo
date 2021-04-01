@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/coursera-ds-algo.iml" filepath="$PROJECT_DIR$/coursera-ds-algo.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/week1-programming-challenges/week1-programming-challenges.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/week1-programming-challenges/week1-programming-challenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/week2-algorithmic-warm-up/week2-algorithmic-warm-up.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/week2-algorithmic-warm-up/week2-algorithmic-warm-up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithmic-toolbox/week3-greedy-algorithms/week3-greedy-algorithms.iml" filepath="$PROJECT_DIR$/algorithmic-toolbox/week3-greedy-algorithms/week3-greedy-algorithms.iml" />
     </modules>
   </component>
 </project>
