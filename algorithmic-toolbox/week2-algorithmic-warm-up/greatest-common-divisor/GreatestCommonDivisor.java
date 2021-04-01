@@ -16,13 +16,14 @@ public class GreatestCommonDivisor {
     }
 
     private static int calcGreatestCommonDivisorFast(int a, int b) {
-        if (a == 0)
+        if (a == 0) {
             return b;
+        }
 
         return calcGreatestCommonDivisorFast(b % a, a);
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
