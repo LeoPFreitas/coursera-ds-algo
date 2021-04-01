@@ -38,11 +38,8 @@ public class FibonacciLastDigit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
-
-        int c = getFibonacciLastDigitNaive(n);
-
-//        System.out.println(c);
-        System.out.println(fibonacciLastDigitFast(n));
+        long c = fibonacciLastDigitFast(n);
+        System.out.println(c);
     }
 }
 
