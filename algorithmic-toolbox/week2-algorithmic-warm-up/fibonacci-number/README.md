@@ -12,11 +12,11 @@
 
 **Sample 1.**
 
-```
-    Input
-        10
-    Output
-        55
+```text
+Input
+    10
+Output
+    55
 ```
 
 ## Solution

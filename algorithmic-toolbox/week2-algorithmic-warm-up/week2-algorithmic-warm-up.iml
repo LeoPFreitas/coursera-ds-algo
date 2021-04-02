@@ -6,6 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/fibonacci-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/last-digit-large-fibonacci-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/greatest-common-divisor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/least-common-multiple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fibonacci-number-again" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/last-digit-Sum-fibonacci-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/last-digit-Sum-fibonacci-numbers-again" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/last-digit-sum-squares-of-fibonacci-numbers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

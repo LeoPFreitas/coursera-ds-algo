@@ -1,11 +1,11 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class FibonacciPartialSum2 {
+public class FibonacciPartialSum {
     private static long getFibonacciPartialSumNaive(long from, long to) {
         long sum = 0;
 
         long current = 0;
-        long next = 1;
+        long next  = 1;
 
         for (long i = 0; i <= to; ++i) {
             if (i >= from) {
@@ -23,12 +23,9 @@ public class FibonacciPartialSum2 {
     private static long getFibonacciPartialSumFast(long from, long to) {
         long sum = 0;
 
-        // Simplify the input arguments, as the last digit pattern repeats with a period of 60,
-        // and the sum of 60 such consecutive numbers is 0 mod 10
-        int m = (int) (from % 60); // pisanoLength(10) = 60
+        int m = (int) (from % 60);
         int n = (int) (to % 60);
 
-        // make sure n is greater than m
         if (n < m)
             n += 60;
 
@@ -54,5 +51,5 @@ public class FibonacciPartialSum2 {
         long to = scanner.nextLong();
         System.out.println(getFibonacciPartialSumFast(from, to));
     }
-
 }
+

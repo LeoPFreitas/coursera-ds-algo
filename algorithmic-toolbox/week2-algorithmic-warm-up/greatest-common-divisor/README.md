@@ -80,5 +80,3 @@ public class GreatestCommonDivisor {
 }
 
 ```
-
-**This is only for discussion and communication. Please don't use this for submission of assignments.**

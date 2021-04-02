@@ -89,7 +89,7 @@ Compile with `javac FibonacciLastDigit.java` and run with `java FibonacciLastDig
 import java.util.*;
 
 public class FibonacciLastDigit {
-    private static int getFibonacciLastDigitAccurate(int n) {
+    private static int calcFibRemainderSeries(int n) {
         /* see previous code */
     }
     
