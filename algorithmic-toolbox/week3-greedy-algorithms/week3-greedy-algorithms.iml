@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/maximun-value-loot" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/money-change" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/car-fueling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collecting-signatures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/maximum-advertisement-revenue" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

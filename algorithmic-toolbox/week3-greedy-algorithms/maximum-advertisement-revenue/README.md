@@ -73,14 +73,7 @@ import java.util.*;
 
 public class DotProduct {
     private static long maxDotProduct(int[] profitPerClick, int[] averageNumOfClicksPerDay) {
-        Arrays.sort(profitPerClick);
-        Arrays.sort(averageNumOfClicksPerDay);
-
-        long result = 0;
-        for (int i = 0; i < profitPerClick.length; i++) {
-            result += (long) profitPerClick[i] * averageNumOfClicksPerDay[i];
-        }
-        return result;
+        /* see previous code */
     }
 
     public static void main(String[] args) {
@@ -97,6 +90,4 @@ public class DotProduct {
         System.out.println(maxDotProduct(a, b));
     }
 }
-
-
 ```
