@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/car-fueling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/collecting-signatures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/maximum-advertisement-revenue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maximum-number-of-prizes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
